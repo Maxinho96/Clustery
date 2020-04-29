@@ -1,7 +1,7 @@
 # Clustery
 Project for Web Data Analysis class at Roma Tre University.
 
-Bruni Massimiliano
-Candela Emanuele
-D' Angelo Gabriele
+Bruni Massimiliano</br>
+Candela Emanuele</br>
+D' Angelo Gabriele</br>
 Frillici Filippo
