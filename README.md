@@ -5,3 +5,14 @@ Bruni Massimiliano</br>
 Candela Emanuele</br>
 D' Angelo Gabriele</br>
 Frillici Filippo 30 e lode
+
+## postagger notebook:
+This notebook reads from data/specs every json document.
+For each file does:
+  translation from json to dictionary,
+  POS tagging of every tuple in dictionary,
+  filtering only names and numbers,
+  create a new json file with preprocessed data,
+  write the file into a new json file inside data/tagged folder,
+### !!!THIS FILE WRITES INTO data/tagged FOLDER!!!
+### PLEASE READ THE NOTEBOOK BEFORE RUNNING IT
