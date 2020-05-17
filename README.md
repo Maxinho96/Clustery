@@ -1,10 +1,10 @@
 # Clustery
 Project for Web Data Analysis class at Roma Tre University.
 
-Bruni Massimiliano</br>
+Bruni Massimiliano, he'll wear flip-flops and bathrobe at his graduation</br>
 Candela Emanuele</br>
 D' Angelo Gabriele</br>
-Frillici Filippo 30 e lode
+Frillici Filippo
 
 ## postagger notebook:
 This notebook reads from data/specs every json document.
